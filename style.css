@@ -1,0 +1,16 @@
+body
+{
+
+}
+.heading{
+    width: 100%;
+    text-align: left;
+    font-size: x-large;
+}
+#siu{
+    float: right;
+    font-size: large;
+}
+#Play,#Statuss{
+    font-size: medium;
+}
